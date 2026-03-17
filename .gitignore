@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/felipe-castro.slnx/FileContentIndex
+/.vs/felipe-castro.slnx/v18
+/FelipeCastro.Utils/obj
+/FelipeCastro.Utils/bin/Debug
